@@ -31,16 +31,8 @@ def lcm(a, b):
 
 # Main function to solve the problem
 def solve():
-    # read inputs
-    n = read_int()
-    a = list(read_ints())
-    
-    # perform required operations
-    # ...
-    
-    # output the result
-    print(result)
 
-# run the main function
+    # Code here
 if __name__ == '__main__':
-    solve()
+
+    print(solve())
