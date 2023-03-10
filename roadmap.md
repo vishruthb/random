@@ -1,6 +1,6 @@
 ## 2023-2024 CP Roadmap
 #### 1:
-- [x] finish c++ course on codechefs
+- [ ] finish c++ course on codechefs
 - [ ] finish all hackerrank 'math' problems in c++
 - [ ] finish all a2oj ladder problems [sub 1600]
 - [ ] create c++ templates for dif instances and sort repo into .py and .cpp
